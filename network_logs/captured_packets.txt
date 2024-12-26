@@ -1,0 +1,90 @@
+Packet #1
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.88.31
+Destination IP: 255.255.255.255
+Protocol: UDP (Code: 17)
+Source Port: 49687
+Destination Port: 29810
+Payload: b'E\xa0\x03WG\x9a\x00\x00@\x11\x16\x95\xc0\xa8X\x1f\xff\xff\xff\xff\xc2\x17tr\x03C\xf9\x10\x00\x00\x037{"header":{"version":"1.3.0","mac":"6C:5A:B0:C0:0D:8E","type":1,"device":"ap","error":0,"dest":"d1a350c2ab60c784fb043496d96cb2eb","verCap":3},"body":{"deviceInfo":{"model":"EAP225","name":"EAP225-6C-5A-B0-C0-0D-8E","firmwareVersion":"5.0.9 Build 20220429 Rel. 43558","modelVersion":"3.0","hardwareVersion":"3.0","upTime":"1 days 20:12:02","cpuUti":4,"memUti":52,"txRate":260315,"rxRate":7382,"wirelessLinked":false,"isFactory":false,"ip":"192.168.88.31","mask":"255.255.255.0"},"deviceMisc":{"support_5g":true,"support_11ac":true,"support_lag":false,"supportMesh":1,"customizeRegion":841,"maxTxPower":0,"minPower2G":6,"maxPower2G":24,"minPower5G":4,"maxPower5G":22,"supportRoaming":1,"supportDfs":0},"controllerSetting":{"controllerId":"d1a350c2ab60c784fb043496d96cb2eb","destOmadacId":"d1a350c2ab60c784fb043496d96cb2eb"}}}'
+----------------------------------------
+Packet #2
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.148.45
+Destination IP: 239.255.255.250
+Protocol: UDP (Code: 17)
+Source Port: 38215
+Destination Port: 1900
+Payload: b'E\x00\x00\x99$Q@\x00\xff\x11\x122\xc0\xa8\x94-\xef\xff\xff\xfa\x95G\x07l\x00\x85\xef\xd6M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+----------------------------------------
+Packet #3
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.17.253
+Destination IP: 192.168.23.255
+Protocol: UDP (Code: 17)
+Source Port: 137
+Destination Port: 137
+Payload: b'E\x00\x00N3~\x00\x00\x80\x11[\xd4\xc0\xa8\x11\xfd\xc0\xa8\x17\xff\x00\x89\x00\x89\x00:JL\xc7`\x01\x10\x00\x01\x00\x00\x00\x00\x00\x00 FHFAEBEECACACACACACACACACACACAAA\x00\x00 \x00\x01'
+----------------------------------------
+Packet #4
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.142.16
+Destination IP: 224.0.0.251
+Protocol: UDP (Code: 17)
+Source Port: 5353
+Destination Port: 5353
+Payload: b'E\x00\x00A\xe6M\x00\x00\x01\x11\xa3\xaa\xc0\xa8\x8e\x10\xe0\x00\x00\xfb\x14\xe9\x14\xe9\x00-\xca\xb0\x8e\x81\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08_arduino\x04_tcp\x05local\x00\x00\x0c\x00\x01'
+----------------------------------------
+Packet #5
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.50.172
+Destination IP: 224.0.0.251
+Protocol: UDP (Code: 17)
+Source Port: 5353
+Destination Port: 5353
+Payload: b'E\x00\x01\x18;P@\x00\xff\x11k4\xc0\xa82\xac\xe0\x00\x00\xfb\x14\xe9\x14\xe9\x01\x04v\x0c\x00\x00\x84\x00\x00\x00\x00\x04\x00\x00\x00\x03\x03172\x0250\x03168\x03192\x07in-addr\x04arpa\x00\x00\x0c\x80\x01\x00\x00\x00x\x00\x13\x0bAndroid-261\x05local\x00\x013\x01F\x01F\x019\x017\x016\x01E\x01F\x01F\x01F\x013\x017\x01C\x010\x018\x017\x010\x010\x010\x010\x010\x010\x010\x010\x010\x010\x010\x010\x010\x018\x01E\x01F\x03ip6\xc0#\x00\x0c\x80\x01\x00\x00\x00x\x00\x02\xc03\xc03\x00\x01\x80\x01\x00\x00\x00x\x00\x04\xc0\xa82\xac\xc03\x00\x1c\x80\x01\x00\x00\x00x\x00\x10\xfe\x80\x00\x00\x00\x00\x00\x00x\x0cs\xff\xfeg\x9f\xf3\xc0\x0c\x00/\x80\x01\x00\x00\x00x\x00\x06\xc0\x0c\x00\x02\x00\x08\xc0F\x00/\x80\x01\x00\x00\x00x\x00\x06\xc0F\x00\x02\x00\x08\xc03\x00/\x80\x01\x00\x00\x00x\x00\x08\xc03\x00\x04@\x00\x00\x08'
+----------------------------------------
+Packet #6
+Timestamp: 2024-12-25 21:50:29
+Source IP: N/A
+Destination IP: N/A
+Protocol: Other (Code: Unknown)
+Source Port: N/A
+Destination Port: N/A
+Payload: b'\x00\x01\x08\x00\x06\x04\x00\x02\xe2(\x10\xfb\x08?\xc0\xa8\x17 \xff\xff\xff\xff\xff\xff\xc0\xa8\x17 \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+----------------------------------------
+Packet #7
+Timestamp: 2024-12-25 21:50:29
+Source IP: N/A
+Destination IP: N/A
+Protocol: Other (Code: Unknown)
+Source Port: N/A
+Destination Port: N/A
+Payload: b'\x00\x01\x08\x00\x06\x04\x00\x01\xe2(\x10\xfb\x08?\xc0\xa8\x17 \xff\xff\xff\xff\xff\xff\xc0\xa8\x14\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+----------------------------------------
+Packet #8
+Timestamp: 2024-12-25 21:50:29
+Source IP: N/A
+Destination IP: N/A
+Protocol: Other (Code: Unknown)
+Source Port: N/A
+Destination Port: N/A
+Payload: b'\x00\x01\x08\x00\x06\x04\x00\x01\x02z-\x90\x19\x87\xc0\xa8\x10Y\x00\x00\x00\x00\x00\x00\xc0\xa8\x10Y\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+----------------------------------------
+Packet #9
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.147.159
+Destination IP: 224.0.0.251
+Protocol: UDP (Code: 17)
+Source Port: 5353
+Destination Port: 5353
+Payload: b'E\x00\x01\x1f\x9dZ\x00\x00\x01\x11\xe60\xc0\xa8\x93\x9f\xe0\x00\x00\xfb\x14\xe9\x14\xe9\x01\x0b(\xd5\x00\x00\x84\x00\x00\x00\x00\x01\x00\x00\x00\x04\x06_dosvc\x04_tcp\x05local\x00\x00\x0c\x00\x01\x00\x00\x11\x94\x00\x1e\nHosamaniii\x06_dosvc\x04_tcp\x05local\x00\nHosamaniii\x06_dosvc\x04_tcp\x05local\x00\x00!\x00\x01\x00\x00\x00x\x00\x18\x00\x00\x00\x00\x1e\x00\nHosamaniii\x05local\x00\xc0G\x00\x10\x00\x01\x00\x00\x11\x94\x004\x07P=65280\x15SH00=fKz2XAf43bSrLWlu\x15SH01=jlhdKrHZsU9GUe9A\nHosamaniii\x05local\x00\x00\x01\x00\x01\x00\x00\x00<\x00\x04\xc0\xa8\x93\x9f\xc0\xc7\x00\x1c\x00\x01\x00\x00\x00<\x00\x10\xfe\x80\x00\x00\x00\x00\x00\x00>\xf0K!\x02L\x04\xa7'
+----------------------------------------
+Packet #10
+Timestamp: 2024-12-25 21:50:29
+Source IP: 192.168.22.61
+Destination IP: 239.255.255.250
+Protocol: UDP (Code: 17)
+Source Port: 64632
+Destination Port: 1900
+Payload: b'E\x00\x00\xc6\xd6s\x00\x00\x01\x11\x1b\xd4\xc0\xa8\x16=\xef\xff\xff\xfa\xfcx\x07l\x00\xb2\xe2\xc3M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Chromium/131.0.6778.109 Windows\r\n\r\n'
+----------------------------------------
